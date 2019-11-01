@@ -1,8 +1,4 @@
-https://www.diostudio.wang/
-https://www.diostudio.wang/archives/
-https://www.diostudio.wang/about.html
-https://www.diostudio.wang/we.html
-https://www.diostudio.wang/collect.html
+https://www.diostudio.wang/python-study-notes-35.html
 https://www.diostudio.wang/python-study-notes-33.html
 https://www.diostudio.wang/python-study-notes-31.html
 https://www.diostudio.wang/python-study-notes-29.html
@@ -29,3 +25,8 @@ https://www.diostudio.wang/Python-Spider-Learning-Notes-1.html
 https://www.diostudio.wang/DateTime-Picker.html
 https://www.diostudio.wang/Git-Commands-Record.html
 https://www.diostudio.wang/Hello-World.html
+https://www.diostudio.wang/collect.html
+https://www.diostudio.wang/we.html
+https://www.diostudio.wang/about.html
+https://www.diostudio.wang/archives/
+https://www.diostudio.wang/
