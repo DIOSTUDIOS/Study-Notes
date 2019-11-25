@@ -8,6 +8,8 @@ def UrlsAutoPush():
     # 将 urls 推送至百度，并接收百度返回的结果
     baiduResult = requests.post("http://data.zz.baidu.com/urls?site=https://www.diostudio.wang&token=IXUROgLSmZjHZm6P", files=urls)
 
+    # print(baiduResult)
+
     if baiduResult.status_code == 200:
     	pattern = r'{"remain":(.*?),"success":.*?,"not_valid":.*?'
     	surplusQuantity = re.findall(pattern, baiduResult.text, re.S)
