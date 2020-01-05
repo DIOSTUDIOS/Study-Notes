@@ -1,5 +1,1 @@
-2019-11-01 14:42:48	Surplus Urls Quantities : 9008	Success Urls Quantities : 31
-2019-11-01 14:43:07	Surplus Urls Quantities : 8977	Success Urls Quantities : 31
-2019-11-01 14:46:10	Surplus Urls Quantities : 8945	Success Urls Quantities : 32
-2019-11-05 08:42:11	Surplus Urls Quantities : 9968	Success Urls Quantities : 32
-2019-11-07 08:52:16	Surplus Urls Quantities : 9968	Success Urls Quantities : 32
+2019-12-30 15:09:31	Surplus Urls Quantities : 9488	Success Urls Quantities : 32
