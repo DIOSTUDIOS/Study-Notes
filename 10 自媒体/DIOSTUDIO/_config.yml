@@ -21,7 +21,7 @@ subtitle: 云逸苍穹
 description: 提放有度，自在为人；<br />保持前进，以致更好！
 author: 王志强
 language: zh-CN
-timezone:
+timezone: UTC
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
