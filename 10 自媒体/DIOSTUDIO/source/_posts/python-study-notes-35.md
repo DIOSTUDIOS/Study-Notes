@@ -1,5 +1,5 @@
 ---
-title: Python 学习笔记：Appium连接安卓真机方法
+title: Python 3 学习笔记：Appium连接安卓真机方法
 tags: [python, Appium, Android Studio, windows 7]
 date: 2019-09-10 10:33:12
 ---

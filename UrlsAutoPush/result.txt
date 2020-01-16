@@ -1,2 +1,12 @@
 2019-12-30 15:09:31	Surplus Urls Quantities : 9488	Success Urls Quantities : 32
+<<<<<<< HEAD
 2020-01-05 19:22:15	Surplus Urls Quantities : 9968	Success Urls Quantities : 32
+=======
+2019-12-31 09:25:46	Surplus Urls Quantities : 9968	Success Urls Quantities : 32
+2020-01-06 14:55:47	Surplus Urls Quantities : 9968	Success Urls Quantities : 32
+2020-01-07 08:59:21	Surplus Urls Quantities : 9968	Success Urls Quantities : 32
+2020-01-08 09:17:40	Surplus Urls Quantities : 99968	Success Urls Quantities : 32
+2020-01-13 13:11:25	Surplus Urls Quantities : 99968	Success Urls Quantities : 32
+2020-01-14 09:10:49	Surplus Urls Quantities : 99968	Success Urls Quantities : 32
+2020-01-16 08:39:52	Surplus Urls Quantities : 99968	Success Urls Quantities : 32
+>>>>>>> f675baa87ab44308cb3c776896ad731fbabd4f18
