@@ -66,10 +66,3 @@ tags: [windows,ubuntu,linux]
 # 后继 #
 
 这篇记录是在安装之后，所以不是很详细，也没有图片展示，所以仅供大家参考使用！本文仅仅记录了自己在安装Windows和Ubuntu双系统过程中遇到的问题。
-
-------
-
-<div align="center">
-    ![自媒平台.jpg](https://i.loli.net/2019/07/29/5d3ea08e5052e51593.jpg)
-</div>
-

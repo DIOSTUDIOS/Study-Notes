@@ -214,10 +214,3 @@ if __name__ =="__main__":
 [![6.jpg](https://i.loli.net/2018/08/30/5b87fa0bad8c7.jpg)](https://i.loli.net/2018/08/30/5b87fa0bad8c7.jpg)
 
 上面就是我们爬取到的图片。
-
-----------
-
-<div align="center">
-    ![自媒平台.jpg](https://i.loli.net/2019/07/29/5d3ea08e5052e51593.jpg)
-</div>
-

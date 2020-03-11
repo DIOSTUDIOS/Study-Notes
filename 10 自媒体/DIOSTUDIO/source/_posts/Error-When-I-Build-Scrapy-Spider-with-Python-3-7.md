@@ -13,10 +13,3 @@ tags: [python,scrapy,爬虫]
     SyntaxError: invalid syntax
 
 可以看到是这个名为 **async** 的变量出错了，经过查询知道这个变量名在 *Python 3.7* 中被定义为了系统关键字，所以我们只需要在错误信息中写明的python文件中将该关键字重命名即可！
-
-------
-
-<div align="center">
-    ![自媒平台.jpg](https://i.loli.net/2019/07/29/5d3ea08e5052e51593.jpg)
-</div>
-

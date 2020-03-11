@@ -18,10 +18,3 @@ tags: [No such device or address, hexo d, Hexo]
 上面是我的解决方法，希望对你有帮助。
 
 ps:后来我又用 ***git bash*** 试了一下，结果还是不行；再次使用 ***cmd*** 还是让我输入用户名和密码，看来这个问题只是暂时解决了，还需要我们打破砂锅问到底，把它彻底解决才行！
-
-----------
-
-<div align="center">
-    ![自媒平台.jpg](https://i.loli.net/2019/07/29/5d3ea08e5052e51593.jpg)
-</div>
-

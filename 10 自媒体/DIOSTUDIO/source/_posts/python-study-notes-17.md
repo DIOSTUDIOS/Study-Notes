@@ -232,7 +232,4 @@ workBookobject = load_workbook("example.xlsx")
 
 ------
 
-<div align="center">
-    ![自媒平台.jpg](https://i.loli.net/2019/07/29/5d3ea08e5052e51593.jpg)
-</div>
-
+<script type="text/javascript" src="http://tajs.qq.com/stats?sId=59765948" charset="UTF-8"></script>

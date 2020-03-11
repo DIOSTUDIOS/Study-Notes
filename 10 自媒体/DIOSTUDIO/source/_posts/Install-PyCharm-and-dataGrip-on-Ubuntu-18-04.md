@@ -77,10 +77,3 @@ Ubuntu系统默认下载到当前用户主目录中的【下载】（Download）
 # 参考文章 #
 
 [https://blog.csdn.net/qq_15192373/article/details/81091278](https://blog.csdn.net/qq_15192373/article/details/81091278)
-
------
-
-<div align="center">
-    ![自媒平台.jpg](https://i.loli.net/2019/07/29/5d3ea08e5052e51593.jpg)
-</div>
-
