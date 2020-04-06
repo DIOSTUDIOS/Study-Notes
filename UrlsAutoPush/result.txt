@@ -26,6 +26,13 @@
 2020-03-11 11:19:14	Surplus Urls Quantities : 99968	Success Urls Quantities : 32
 2020-03-12 08:38:03	Surplus Urls Quantities : 99968	Success Urls Quantities : 32
 2020-03-13 16:43:32	Surplus Urls Quantities : 99968	Success Urls Quantities : 32
+<<<<<<< HEAD
+2020-04-06 06:11:06	Surplus Urls Quantities : 9968	Success Urls Quantities : 32
+=======
 2020-03-16 07:24:01	Surplus Urls Quantities : 99968	Success Urls Quantities : 32
 2020-04-01 08:34:20	Surplus Urls Quantities : 9968	Success Urls Quantities : 32
+<<<<<<< HEAD
 2020-04-07 07:36:03	Surplus Urls Quantities : 9968	Success Urls Quantities : 32
+=======
+>>>>>>> 20823767ced187aab9bb04ca1847b2e3835dc435
+>>>>>>> afb681092d8878427c9a09296c5873ff695fade7
