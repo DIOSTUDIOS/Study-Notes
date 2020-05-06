@@ -15,4 +15,7 @@ tags: [王志强, 云逸苍穹, DIOSTUDIO]
 - [GitHub](https://github.com/)
 - [segmentfault](https://segmentfault.com/)
 - [W3Cschool](https://www.w3cschool.cn/)
+- [趣无尽](https://make.quwj.com/)
+- [PyPi](https://pypi.org/)
+- [Arduino实验室](https://arduino.nxez.com/)
 

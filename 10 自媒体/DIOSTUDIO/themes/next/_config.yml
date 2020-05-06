@@ -163,7 +163,7 @@ baidu_push: true
 # External url should start with http:// or https://
 # 设置菜单栏显示内容及图标
 menu:
-  home: https://www.diostudio.wang || home
+  home: https://www.diostudio.cn || home
   # tags: /tags/ || tags
   #categories: /categories/ || th
   archives: /archives || archive
