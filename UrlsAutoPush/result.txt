@@ -1,7 +1,5 @@
 2019-12-30 15:09:31	Surplus Urls Quantities : 9488	Success Urls Quantities : 32
-<<<<<<< HEAD
 2020-01-05 19:22:15	Surplus Urls Quantities : 9968	Success Urls Quantities : 32
-=======
 2019-12-31 09:25:46	Surplus Urls Quantities : 9968	Success Urls Quantities : 32
 2020-01-06 14:55:47	Surplus Urls Quantities : 9968	Success Urls Quantities : 32
 2020-01-07 08:59:21	Surplus Urls Quantities : 9968	Success Urls Quantities : 32
@@ -9,12 +7,8 @@
 2020-01-13 13:11:25	Surplus Urls Quantities : 99968	Success Urls Quantities : 32
 2020-01-14 09:10:49	Surplus Urls Quantities : 99968	Success Urls Quantities : 32
 2020-01-16 08:39:52	Surplus Urls Quantities : 99968	Success Urls Quantities : 32
->>>>>>> f675baa87ab44308cb3c776896ad731fbabd4f18
-<<<<<<< HEAD
 2020-01-16 19:04:22	Surplus Urls Quantities : 99936	Success Urls Quantities : 32
-=======
 2020-01-17 08:47:16	Surplus Urls Quantities : 99968	Success Urls Quantities : 32
->>>>>>> 8dd240f59ab92ef329cc3eebd6691ef81b43a83b
 2020-01-17 18:44:00	Surplus Urls Quantities : 99936	Success Urls Quantities : 32
 2020-01-20 11:42:52	Surplus Urls Quantities : 99968	Success Urls Quantities : 32
 2020-01-30 09:03:27	Surplus Urls Quantities : 99968	Success Urls Quantities : 32
@@ -26,16 +20,12 @@
 2020-03-11 11:19:14	Surplus Urls Quantities : 99968	Success Urls Quantities : 32
 2020-03-12 08:38:03	Surplus Urls Quantities : 99968	Success Urls Quantities : 32
 2020-03-13 16:43:32	Surplus Urls Quantities : 99968	Success Urls Quantities : 32
-<<<<<<< HEAD
 2020-04-06 06:11:06	Surplus Urls Quantities : 9968	Success Urls Quantities : 32
-=======
 2020-03-16 07:24:01	Surplus Urls Quantities : 99968	Success Urls Quantities : 32
 2020-04-01 08:34:20	Surplus Urls Quantities : 9968	Success Urls Quantities : 32
-<<<<<<< HEAD
 2020-04-07 07:36:03	Surplus Urls Quantities : 9968	Success Urls Quantities : 32
-=======
->>>>>>> 20823767ced187aab9bb04ca1847b2e3835dc435
->>>>>>> afb681092d8878427c9a09296c5873ff695fade7
 2020-04-07 16:48:46	Surplus Urls Quantities : 9936	Success Urls Quantities : 32
 2020-04-12 14:42:47	Surplus Urls Quantities : 9966	Success Urls Quantities : 34
 2020-04-18 07:41:03	Surplus Urls Quantities : 9966	Success Urls Quantities : 34
+2020-05-06 10:19:13	Surplus Urls Quantities : 9966	Success Urls Quantities : 34
+2020-05-06 10:20:30	Surplus Urls Quantities : 9932	Success Urls Quantities : 34
