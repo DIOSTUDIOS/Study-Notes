@@ -1,4 +1,4 @@
 @echo off
 
-cd D:\开发制作\Study-Notes\UrlsAutoPush
-start D:\开发制作\Study-Notes\UrlsAutoPush\venv\Scripts\python.exe D:\开发制作\Study-Notes\UrlsAutoPush\UrlsAutoPush.py
+cd D:\Desievement\Study-Notes\UrlsAutoPush
+start D:\Desievement\Study-Notes\UrlsAutoPush\venv\Scripts\python.exe D:\Desievement\Study-Notes\UrlsAutoPush\UrlsAutoPush.py
