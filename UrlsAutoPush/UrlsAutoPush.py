@@ -32,15 +32,15 @@ def FeedBack():
     resultFile = open("result.txt", "a")
     result = UrlsAutoPush()
     # 判断最高位是否大于0，无论成功还是失败都写入日志
-    if int(result["successQuantity"]) > 0:
-        resultFile.write(str(datetime.datetime.now().strftime(
+    if (result["successQuantity"]) > 0:
+        resultFile.write((datetime.datetime.now().strftime(
             "%Y-%m-%d %H:%M:%S")) +
             "\tSurplus Urls Quantities : " +
             result["surplusQuantity"] +
             "\tSuccess Urls Quantities : " +
             result["successQuantity"] + "\n")
     else:
-        resultFile.write(str(datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")) + "COME TO NOTHING!!!\n")
+        resultFile.write((datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")) + "COME TO NOTHING!!!\n")
 
     resultFile.close()
 
