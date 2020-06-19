@@ -84,5 +84,5 @@ theme: next
 deploy:
     type: git
     repo: 
-        coding: git@git.dev.tencent.com:DIOSTUDIO/diostudio.git
-        
+        # coding: git@git.dev.tencent.com:DIOSTUDIO/diostudio.git
+        coding: git@e.coding.net:DIOSTUDIO/diostudio.git
