@@ -7,14 +7,13 @@ def UrlsAutoPush():
     # 读取 urls.txt 中需要推送的链接
     urls = {'file': open('urls.txt', 'rb')}
     # 将 urls 推送至百度，并接收百度返回的结果
-    baiduResult = requests.post("http://data.zz.baidu.com/urls?site=https://www.diostudio.wang&token=IXUROgLSmZjHZm6P", files=urls)
+    baiduResult = requests.post("http://data.zz.baidu.com/urls?site=https://www.diostudio.cn&token=IXUROgLSmZjHZm6P", files=urls)
 
     # print(baiduResult)
 
     if baiduResult.status_code == 200:
         pattern = r'{"remain":(.*?),"success":.*?,"not_valid":.*?'
         surplusQuantity = re.findall(pattern, baiduResult.text, re.S)
-
         pattern = r'{"remain":.*?,"success":(.*?),"not_valid":.*?'
         successQuantity = re.findall(pattern, baiduResult.text, re.S)
     else:
@@ -32,7 +31,7 @@ def FeedBack():
     resultFile = open("result.txt", "a")
     result = UrlsAutoPush()
     # 判断最高位是否大于0，无论成功还是失败都写入日志
-    if (result["successQuantity"]) > 0:
+    if (int(result["successQuantity"])) > 0:
         resultFile.write((datetime.datetime.now().strftime(
             "%Y-%m-%d %H:%M:%S")) +
             "\tSurplus Urls Quantities : " +

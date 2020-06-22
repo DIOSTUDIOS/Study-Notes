@@ -23,6 +23,7 @@
 
 {%- if theme.baidu_site_verification %}
   <meta name="baidu-site-verification" content="{{ theme.baidu_site_verification }}">
+  <meta name="baidu-site-verification" content="QzhTDi7ToI" />
 {%- endif %}
 
 {%- if theme.favicon.apple_touch_icon %}
